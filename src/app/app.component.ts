@@ -55,3 +55,10 @@ public ngOnInit(): void {
     });
   }
 }
+
+
+// Install
+
+// npm install @web3modal/wagmi @wagmi/core viem
+// npm i @web3modal/ethereum
+// npm i @web3modal/html
